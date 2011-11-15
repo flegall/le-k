@@ -1,0 +1,41 @@
+le k.
+
+florent.lobstre (final version)
+
+code.design.music : me
+
+i'm happy this demo saw the day, i truly didn't expected it at first.
+this demo should work under windows, linux (intel) and mac osx (power pc & intel : universal binaries \o/)
+the windows version has all required dll files
+the osx version embeds the required sdl frameworks (sdl, sdl_ttf, sdl_mixer)
+the linux version requires installation of sdl, sdl_ttf, sdl_mixer, opengl & libsdtc++
+
+source is released under the gpl, it won't compile out of the box, cause it requires boost and glew
+the executable and data files are released under the creative commons Attribution-ShareAlike License 
+
+this demo was started on a powerpc g4 mac mini and finished at the party place on a pc linux-ubuntu laptop and final version was made on the mac mini..
+it is slightly different from the party version, has less geometry, but more dense one..
+
+command lines switches : 
+-fullscreen
+-windowed
+-640
+-800
+-1024
+-1280
+-1600
+
+inspiration : 
+contextfree : http://www.contextfreeart.org/ (i prototyped the main effect with it)
+jari pitkänen's soundtracks (the ballet dancer, vorticity, golem arise..)
+kaija saariaho (adriana mater, colors shown during the opera)
+halcyon (the demo the jury i took part in disqualified)
+dino buzzati (the k. novel)
+
+thanx to knos / tpolm for his help and the cokus.c file..
+thanx to pan / spinning kids for his debugging help at the party place..
+
+love:
+mfx, tpolm, mandarine, orion, bomb, titan, calodox, demoscene.tv, matt current, main organizers, lobstarrs, shitfaced clowns, kewlers & spinning kids
+
+love to all my close friends and to my dearest Leïla
